@@ -1,8 +1,8 @@
 # Currency converter
 
 ## Demo
-
-You can visit my website here: https://justynakow.github.io/currency-converter/
+! [Converter screen] (Images\demo.png)
+You can visit my website here: [currency converter] (https://justynakow.github.io/currency-converter/)
 
 ## Description
 Simple currency converter
