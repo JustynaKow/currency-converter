@@ -1,3 +1,7 @@
+.form {
+    background: right / contain no-repeat url("../Images/background.png");
+}
+
 .form__labelText {
     width: 100%;
     max-width: 100px;
