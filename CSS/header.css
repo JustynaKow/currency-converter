@@ -1,0 +1,11 @@
+.header {
+  background-color: #122e60cc;
+  padding: 20px 0;
+}
+
+.header__title {
+    color: #fff;
+    text-transform: uppercase;
+    margin: 20px;
+    text-align: left;
+}
